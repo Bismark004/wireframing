@@ -52,4 +52,21 @@ The wireframe described here is a **high-fidelity wireframe.**
 
 ### Why?  
 - It includes detailed elements and is closer to the final design.  
-- It provides a refined representation of the layout, making it suitable for stakeholder presentations or finalizing design decisions.
+- It provides a refined representation of the layout, making it suitable for stakeholder presentations or finalizing design decisions.  
+
+---
+
+## Popular Wireframing Tools  
+
+### Figma  
+**Figma** is a popular and powerful tool for wireframing, prototyping, and collaborative design.  
+
+#### Key Features:  
+- **Real-Time Collaboration:** Work seamlessly with team members on the same project.  
+- **Cross-Platform Support:** Accessible from any device with a web browser.  
+- **Intuitive Interface:** Easy to use for both beginners and experienced designers.  
+- **Component Library:** Create reusable components for consistent designs.  
+- **Prototyping Capabilities:** Link wireframe elements to simulate navigation and interactions.  
+
+#### Why Use Figma for Wireframing?  
+Figma’s user-friendly interface and robust features make it an excellent choice for creating both low-fidelity and high-fidelity wireframes. Its collaboration tools ensure that team members and stakeholders can contribute and provide feedback in real-time, making the design process efficient and streamlined.
