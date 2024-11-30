@@ -162,7 +162,7 @@ The wireframe described here is a **high-fidelity wireframe.**
 #### Why Use Figma for Wireframing?  
 Figma’s user-friendly interface and robust features make it an excellent choice for creating both low-fidelity and high-fidelity wireframes. Its collaboration tools ensure that team members and stakeholders can contribute and provide feedback in real-time, making the design process efficient and streamlined.  
 
----
+
 
 ## Benefits of Wireframing in Software Development  
 
@@ -180,3 +180,28 @@ Wireframes help ensure that the design aligns with the intended functionality of
 
 ### Saves Time and Resources  
 Detecting and resolving design issues during the wireframing stage saves time and reduces the need for extensive changes later in the development cycle. This efficiency ensures that the team stays on schedule and within budget.  
+---
+
+## Real-World Scenario: Wireframing Identifying Usability Issues  
+
+### Scenario Overview  
+A design team was tasked with creating a food delivery application. During the wireframing phase, a low-fidelity wireframe was created to map out the app's navigation flow and key screens, such as the home page, restaurant menu, and checkout process.  
+
+### Identified Usability Issues  
+While reviewing the wireframes:  
+1. **Navigation Complexity:** Testers noticed that accessing the checkout page required too many steps, potentially frustrating users.  
+2. **Information Overload:** The restaurant menu screen displayed too many items at once, making it overwhelming and difficult to scan.  
+3. **Missing Feedback Mechanism:** There was no clear confirmation for actions like adding an item to the cart, which could confuse users about whether their actions were successful.  
+
+### Resolution  
+1. **Simplified Navigation:** The team added a persistent "Cart" button to the main navigation bar, allowing users to access the checkout page with a single tap.  
+2. **Improved Information Hierarchy:** Items on the menu page were grouped into collapsible categories (e.g., starters, main courses, desserts) to reduce clutter.  
+3. **Action Feedback:** A small notification or toast message was introduced to confirm actions like adding items to the cart, improving user confidence and clarity.  
+
+### Impact on the Final Product  
+The resolved issues significantly enhanced the app’s usability. Users found the app easier to navigate, more intuitive, and less overwhelming. This translated into higher user satisfaction and better reviews upon launch. Additionally, by addressing these issues during the wireframing phase, the team avoided costly revisions during development, saving both time and resources.  
+
+
+## Conclusion: The Role of Wireframing in Ensuring a User-Friendly Design  
+Wireframing plays a pivotal role in identifying and resolving potential usability issues early in the design process. By focusing on the basic structure and functionality, wireframes help teams visualize user flows, test navigation, and refine layouts before development begins. This ensures the final product is intuitive, efficient, and user-centered, ultimately contributing to its success in the market.
+
